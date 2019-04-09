@@ -1,0 +1,4 @@
+alias e='vim'
+alias work='ssh -t sjogate.ansys.com ssh sjord9'
+alias ww='ssh -t 66.104.254.46 ssh sjord9'
+alias ppp='sudo pacman -S --noconfirm'
